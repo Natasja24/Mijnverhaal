@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #DCD8D4; /* lichte achtergrond */
+    color: #1A281D; /* donkere tekstkleur */
+}
+
+header {
+    background-color: #72696D; /* warm grijs-paarsig */
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin-bottom: 2rem;
+    background: #B6AB9F; /* zachte, neutrale tint */
+    color: #1A281D;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(26, 40, 29, 0.1);
+}
+.verhaal {
+    margin-bottom: 2rem;
+    background: cadetblue; /* zachte, neutrale tint */
+    color: #1A281D;
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(26, 40, 29, 0.1);
+    
+}
+
+footer {
+    background-color: #BBB38C; /* beige-achtige tint */
+    color: #1A281D;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.over-mij {
+    background-color: #DCD8D4;
+    border-left: 6px solid #72696D;
+}
+img { 
+    height: 300px;
+    width: 200px;
+    text-align: center;
+
+}
